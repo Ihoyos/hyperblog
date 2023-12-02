@@ -1,6 +1,8 @@
 Esta es la historia de Ivan
 
-Tengo 27 anios
+Tengo 28 anios
 Aprendiendo Git en platzi.
 
 VIvo en Cali COlombia
+
+Me encanta aprender.
